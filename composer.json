@@ -4,11 +4,11 @@
     "type": "silverstripe-module",
     "homepage": "https://github.com/MichaelJJames/silverstripe-google-analytics",
     "keywords": [
-        "silverstripe","silverstripe","google analytics",
+        "silverstripe","silverstripe","google analytics"
     ],
     "license": "BSD-3-Clause",
     "authors": [
-        {"name": "Michael James","email": "michael@michaeljjames.com"},
+        {"name": "Michael James","email": "michael@michaeljjames.com"}
     ],
     "support": {
         "issues": "https://github.com/MichaelJJames/silverstripe-google-analytics/issues"
