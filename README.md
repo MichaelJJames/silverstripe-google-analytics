@@ -4,7 +4,7 @@
 
 ## Installation
 
-	composer require michaeljjames/silverstripe-google-analytics
+	composer require michaeljjames/silverstripe-google-analytics dev-master
 	
 ## Usage
 
