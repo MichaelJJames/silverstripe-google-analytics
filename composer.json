@@ -14,7 +14,9 @@
         "issues": "https://github.com/MichaelJJames/silverstripe-google-analytics/issues"
     },
     "require": {
-        "silverstripe/cms": "~3.1",
-        "silverstripe/framework": "~3.1"
-    }
+        "silverstripe/cms": "~3.5",
+        "silverstripe/framework": "~3.5"
+    },
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
