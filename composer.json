@@ -17,6 +17,6 @@
         "silverstripe/cms": "~3.5",
         "silverstripe/framework": "~3.5"
     },
-	"minimum-stability": "dev",
-	"prefer-stable": true
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
