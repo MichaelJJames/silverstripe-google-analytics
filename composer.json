@@ -1,9 +1,9 @@
 {
-	"name": "michaeljjames/silverstripe-google-analytics",
-	"description": "Provides an easy way for clients to change their google analytics tracking id without making code changes",
-	"keywords": ["silverstripe", "CMS", "Google Analytics"],
-	"license": "BSD-3-Clause",
-	"minimum-stability": "dev",
+    "name": "michaeljjames/silverstripe-google-analytics",
+    "description": "Provides an easy way for clients to change their google analytics tracking id without making code changes",
+    "keywords": ["silverstripe", "CMS", "Google Analytics"],
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "silverstripe/cms": "^3",
