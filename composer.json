@@ -1,5 +1,6 @@
 {
     "name": "michaeljjames/silverstripe-google-analytics",
+    "type": "silverstripe-module",
     "description": "Provides an easy way for clients to change their google analytics tracking id without making code changes",
     "keywords": ["silverstripe", "CMS", "Google Analytics"],
     "license": "BSD-3-Clause",
